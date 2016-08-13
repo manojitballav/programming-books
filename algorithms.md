@@ -13,4 +13,4 @@
 * [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) (PDF)
 * [Think Complexity](http://greenteapress.com/complexity/) (PDF)
-* [Algorithm for web devs](http://manojitballav.ml/books/Algorithms/Data%20Structure%20and%20Algorithm-%20Martin%20Richards(University%20of%20Cambridge).pdf)
+* [Algorithm for web devs](http://manojitballav.ml/books/Algorithms/DataStructureandAlgorithm-Martin%20Richards(University%20of%20Cambridge).pdf)
