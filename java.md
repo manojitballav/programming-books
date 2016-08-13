@@ -9,3 +9,5 @@
 * [OSGi in Practice](http://njbartlett.name/osgibook.html) - N. Bartlett (PDF)
 * [The Java EE6 Tutorial](http://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) (PDF)
+* [Java Black Book](http://manojitballav.ml/books/JAVA/JavaBlackBook.pdf)
+* [Java Programming](http://manojitballav.ml/books/JAVA/Java_Programming.pdf)
