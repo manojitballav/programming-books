@@ -5,3 +5,4 @@
 * [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) (PDF)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) (PDF)
+* [Tutorials Point](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf)(PDF)
